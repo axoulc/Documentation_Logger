@@ -1,7 +1,6 @@
 site_name: Documentation Logger
 site_description: Documentation materielle et logicielle d'une carte d'acquisition autonome
 copyright: Laboratoire Ampère
-site_dir: /site
 repo_url: https://github.com/axoulc/Documentation_Logger
 
 theme:
