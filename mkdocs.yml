@@ -5,7 +5,7 @@ copyright: Laboratoire Ampère
 plugins:
   - with-pdf:
       author: Axel Chabot
-      cover_subtitle: Documentation matérielle et logicielle
+      cover_subtitle: Documentation materielle et logicielle
       toc_title: Table des matières
 
 theme:
