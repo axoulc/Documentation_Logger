@@ -1,5 +1,5 @@
 site_name: Documentation Logger
-site_url: https://example.com/
+site_url: https://documentation-logger.readthedocs.io/
 copyright: Laboratoire Ampère
 
 plugins:
