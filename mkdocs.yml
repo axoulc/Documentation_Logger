@@ -7,8 +7,8 @@ theme:
   name: material
   language: fr
 
-plugins:
-  - with-pdf:
-      author: Axel Chabot
-      cover_subtitle: Documentation materielle et logicielle
-      toc_title: Table des matières
+#plugins:
+#  - with-pdf:
+#      author: Axel Chabot
+#      cover_subtitle: Documentation materielle et logicielle
+#      toc_title: Table des matières
