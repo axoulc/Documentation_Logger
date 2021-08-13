@@ -3,6 +3,7 @@ site_description: Documentation materielle et logicielle d'une carte d'acquisiti
 copyright: Laboratoire Ampère
 repo_url: https://github.com/axoulc/Documentation_Logger
 site_url: https://doc-logger.netlify.app/
+edit_uri: docs
 
 
 theme:
