@@ -1,2 +1,4 @@
 mkdocs==1.2.1
 mkdocs-material==7.1.9
+weasyprint==52.5
+mkdocs-with-pdf==0.9.2
