@@ -15,7 +15,7 @@ La carte est assez simple d'utilisations. Il y a tout de même quelques points �
 
 ## Entrées - Sorties
 
-Il y a sur cette carte de nombreuses entrées et sorties afin que l'utilisateur puisse facilement adapter son application avec ce système.*
+Il y a sur cette carte de nombreuses entrées et sorties afin que l'utilisateur puisse facilement adapter son application avec ce système.
 
 Tout d'abord, afin de programmer la carte, il y a le connecteur J3 fonctionne avec un connecteur à contact que l'utilisateur doit tenir lors de la programmation.
 
@@ -23,7 +23,21 @@ Il y a aussi le connecteur principal de carte fille qui peut être facilement ut
 
 <div align="center"><img src="../img/conn_fille.png" alt="conn_fille" /></div>
 
+Il y a également d'autres entrées-sorties auxiliaires qui sont accessible uniquement par soudure sur pad.
 
+Proche du connecteur USB Type-C, il y a 4 GPIO qui peuvent servir d'entrées comme de sorties et tout cela est configurable par le logiciel.
+
+<div align="center"><img src="../img/aux1.png" alt="aux1" /></div>
+
+Il y a également un port UART qui peut servir au débogage mais également à d'autres applications selon les désirs de l'utilisateur.
+
+<div align="center"><img src="../img/aux2.png" alt="aux2" /></div>
+
+## Interaction utilisateur
+
+Il y a sur la carte deux LED. Une proche du connecteur USB Type-C qui est le témoin de charge. Il s'allume pendant la charge et s'éteint lorsque c'est fini. Et il y a aussi une autre LED sur la droite qui est un témoin d'allumage et qui peut être configurée pendant la programmation.
+
+Il y a à disposition également deux boutons : un reset qui peut ne pas être soudé et un autre totalement paramétrable.
 
 ## Fonctions activables
 
