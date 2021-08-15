@@ -5,10 +5,14 @@ repo_url: https://github.com/axoulc/Documentation_Logger
 site_url: https://doc-logger.netlify.app/
 edit_uri: blob/main/docs/
 
-
 theme:
   name: material
   language: fr
+
+nav:
+  - Accueil: index.md
+  - Présentation Matérielle: hardware.md
+  - Programmation: prog.md
 
 plugins:
   - search

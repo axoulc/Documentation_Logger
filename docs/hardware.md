@@ -35,7 +35,7 @@ Il y a également un port UART qui peut servir au débogage mais également à d
 
 ## Interaction utilisateur
 
-Il y a sur la carte deux LED. Une proche du connecteur USB Type-C qui est le témoin de charge. Il s'allume pendant la charge et s'éteint lorsque c'est fini. Et il y a aussi une autre LED sur la droite qui est un témoin d'allumage et qui peut être configurée pendant la programmation.
+Il y a sur la carte deux LED. Une proche du connecteur USB Type-C qui est le témoin de charge. Il s'allume pendant la charge et s'éteint lorsque c'est fini. Et il y a aussi une autre LED sur la droite qui est un témoin d'allumage et qui peut être configurée pendant la programmation. Elle est aussi utilisée en cas de problème dans le programme. Si c'est le cas, elle se mettra à clignoter rapidement.
 
 Il y a à disposition également deux boutons : un reset qui peut ne pas être soudé et un autre totalement paramétrable.
 
